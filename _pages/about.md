@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
+I am currently pursue BS (Hon.) in Computer Science.
