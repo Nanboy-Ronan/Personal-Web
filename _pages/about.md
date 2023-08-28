@@ -30,3 +30,6 @@ Hello, I'm [NAME](). Currently, I am pursuing the B.S. (Hon.) in Computer Scienc
   * Explored *backdoor attack* on *MedCLIP*.
 
 ## Experiences in Other CS fields
+* Human Computer Interaction
+* Internet of Things Techniques
+* Web development with React
