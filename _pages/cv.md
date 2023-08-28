@@ -30,13 +30,17 @@ Work experience
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Data Base
+* AWS Services
+  * Pipeline
+  * IAM Roles
+  * Cloud Formation
+  * S3 Bucket
+  * Authentication and Key Management
+  * AWS Cloud Development Toolkit
+* Cloud Storage Services
   * Google Big Query
   * Oracle SQL
+  * Enterprise Data Warehouse
 
 <!-- Publications
 ======

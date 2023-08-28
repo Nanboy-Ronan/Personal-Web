@@ -12,21 +12,21 @@ Hello, I'm [NAME](). Currently, I am pursuing the B.S. (Hon.) in Computer Scienc
 
 ## Research Experiences
 * Federated Learning (FL)
-  * Implemented state-of-the-art FL algorithms, including FedAvg, FedProx, FedNova, Scaffold into customer settings.
-  * Worked on Federated Generative Adversarial Network with StyleGAN2-ADA.
+  * Implemented state-of-the-art FL algorithms, including *FedAvg, FedProx, FedNova, Scaffold* into customer settings.
+  * Worked on Federated Generative Adversarial Network with *StyleGAN2-ADA*.
 
 * Machine Learning Privacy and Security
-  * Worked with membership inference attacks, backdoor attacks (patch and Fourier-based) and the state-of-the-art defense strategy for them.
-  * Worked with the DP-SGD algorithm under federated learning and data generation settings for differential privacy.
-  * Adjusted unlearning algorithms to compare with the proposed methods, including gradient ascent and finetuning based algorithms. 
-  * Explored different outlier detection algorithm for detecting malicious behavior, including isolation forest, KNN, PCA and DBSCAN.
+  * Worked with *membership inference attacks, backdoor attacks (patch and Fourier-based)* and the state-of-the-art defense strategy for them.
+  * Worked with the *DP-SGD* algorithm under federated learning and data generation settings for differential privacy.
+  * Adjusted unlearning algorithms to compare with the proposed methods, including *gradient ascent* and *finetuning* based algorithms. 
+  * Explored different outlier detection algorithm for detecting malicious behavior, including *isolation forest, KNN, PCA and DBSCAN*.
 
 * Data Distillation and Generation
-  * Adjusted various data distillation strategies to federated learning and compared their pros and cons, including gradient matching and distribution matching.
-  * Worked on various Generative Adversarial Networks, including StyleGANs, DCGANs, WGAN and different conditional GANs.
+  * Adjusted various data distillation strategies to federated learning and compared their pros and cons, including *gradient matching and distribution matching*.
+  * Worked on various Generative Adversarial Networks, including *StyleGANs, DCGANs, WGAN and different conditional GANs*.
 
 * Vision-Text Multimodal
-  * Worked various vision-text models including CLIP, MedCLIP, ViLT.
-  * Explored backdoor attack on MedCLIP.
+  * Worked various vision-text models including *CLIP, MedCLIP, ViLT*.
+  * Explored *backdoor attack* on *MedCLIP*.
 
 ## Experiences in Other CS fields
