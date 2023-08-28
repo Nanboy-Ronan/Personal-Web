@@ -34,7 +34,9 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Data Base
+  * Google Big Query
+  * Oracle SQL
 
 <!-- Publications
 ======
