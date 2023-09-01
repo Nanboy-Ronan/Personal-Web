@@ -17,15 +17,18 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* May - Aug 2023: Software Development Engineer
+  * Amazon Web Services
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Jan - Aug 2022: Software Developer
+  * Sierra Wireless
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+
+* Sep 2020 - Jul 2022: Teaching Assistant
+  * Department of Computer Science
   
 Skills
 ======
