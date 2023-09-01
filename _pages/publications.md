@@ -5,8 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-| ![Figure 1](/assets/images/SASHIMI%202022.png) **Title of Journal Article 1** |
-| --- |
+| ![Figure 1](image1.jpg) **Title of Journal Article 1** |
+|:---|
+| *Authors:* Your Name, Co-Author(s) |
+| *Published in:* Journal Name |
+| *Publication Date:* Month Year |
+| *Link to Full Article:* [Read Here](URL) |
+
+| ![Figure 2](image2.jpg) **Title of Journal Article 2** |
+|:---|
 | *Authors:* Your Name, Co-Author(s) |
 | *Published in:* Journal Name |
 | *Publication Date:* Month Year |
