@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 <style>
-.publications-container{
+publications-container{
   margin: 40px auto;
 }
 
-.publication-introduction {
+publication-introduction {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 18px;
@@ -19,23 +19,23 @@ author_profile: true
   margin: 0 auto;
 }
 
-.publication-content {
+publication-content {
   width: 80%;
   position: relative;
   margin: 0 auto;
 }
 
-.publication-title {
+publication-title {
   font-family: Poppins SemiBold;
   font-size: 18px;
 }
 
-.publication-autors {
+publication-autors {
   font-family: Poppins Regular;
   font-size: 16px;
 }
 
-.publication-journal {
+publication-journal {
   font-family: Poppins Regular;
   font-size: 16px;
   font-style: italic;
