@@ -25,10 +25,10 @@ publication-journal {
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 500px; height: 300px; margin-right: 20px;">
+  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 400px; height: 200px; margin-right: 20px;">
   <div>
-    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://link.springer.com/chapter/10.1007/978-3-031-16980-9_15">Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis</a>
-    <publication-autors> Jin, R., & Li, X. </publication-autors>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://link.springer.com/chapter/10.1007/978-3-031-16980-9_15">Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis<br></a>
+    <publication-autors> Jin, R., & Li, X. <br></publication-autors>
     <publication-journal>International Workshop on Simulation and Synthesis in Medical Imaging @ MICCAI 2022</publication-journal>
     <p style="">September 2022</p>
   </div>
