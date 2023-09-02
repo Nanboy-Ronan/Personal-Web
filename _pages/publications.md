@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-publication-title {
+.publication-title {
   font-family: Poppins SemiBold;
   font-size: 18px;
 }
