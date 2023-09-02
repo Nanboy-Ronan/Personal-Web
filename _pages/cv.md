@@ -11,22 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. (Hon.) in Computer Science, University of British Columbia, 2012
+* B.S. (Hon.) in Computer Science, University of British Columbia, 2024
 
 Work experience
 ======
 * May - Aug 2023: Software Development Engineer
   * Amazon Web Services
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Developed the open-source license scanner for checking prohibited licenses in CI/CD code pipeline
+  * Enabled automated attribution document generation process.
+  * Received inclined for full-time position.
 
 * Jan - Aug 2022: Software Developer
   * Sierra Wireless
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Developed automation test scripts in both web-end with Selenium and Cypress; and also the back-end for testing 5G router (MG90)s
+  * Programmed in Socket and developed VPN and Firewall testing scripts for MG90.
+  * •	Set up and executed automation testbeds with Jenkins and VMware.
 
 * Sep 2020 - Jul 2022: Teaching Assistant
   * Department of Computer Science
+  * Assisted PHYS 117 (Dynamics and Waves) for one term, CPSC 121 (Models of Computation) for two terms and CPSC 213 (Introduction to Computer Systems) for three terms.
   
 Skills
 ======
