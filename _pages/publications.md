@@ -54,7 +54,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="image2.jpg" alt="Figure 2" style="max-width: 200px; height: auto; margin-right: 20px;">
+  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 2" style="max-width: 200px; height: auto; margin-right: 20px;">
   <div>
     <h3>Title of Journal Article 2</h3>
     <p><em>Authors:</em> Your Name, Co-Author(s)</p>
@@ -63,14 +63,6 @@ author_profile: true
     <p><em>Link to Full Article:</em> [Read Here](URL)</p>
   </div>
 </div>
-
-## Conference Papers
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="image3.jpg" alt="Figure 3" style="max-width: 200px; height: auto; margin-right: 20px;">
-  <div>
-    <h3>Title of Conference Paper 1</h3>
-    <p><em>Authors:</em> Your Name, Co-Author(s)</
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
