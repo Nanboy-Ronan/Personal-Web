@@ -17,7 +17,7 @@ Welcome to my list of recent publications. Here, you can find a selection of my 
     <a href="https://arxiv.org/abs/2207.00762">Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis</a>
     <p> Jin, R., & Li, X. </p>
     <p>International Workshop on Simulation and Synthesis in Medical Imaging @ MICCAI 2022</p>
-    <p><em>September 2022</p>
+    <p>September 2022</p>
   </div>
 </div>
 
