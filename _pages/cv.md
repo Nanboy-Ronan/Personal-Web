@@ -12,8 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. (Hon.) in Computer Science, University of British Columbia, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
@@ -32,7 +30,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Deep Learning
+* Data Science
 * AWS Services
   * Pipeline
   * IAM Roles
