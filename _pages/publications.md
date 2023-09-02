@@ -29,7 +29,7 @@ publication-journal {
   <div>
     <a className="publication-title" href="https://link.springer.com/chapter/10.1007/978-3-031-16980-9_15">Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis</a>
     <p className="publication-autors" style=""> Jin, R., & Li, X. </p>
-    <p className="publication-journal" style="">International Workshop on Simulation and Synthesis in Medical Imaging @ MICCAI 2022</p>
+    <publication-journal style="">International Workshop on Simulation and Synthesis in Medical Imaging @ MICCAI 2022</publication-journal>
     <p style="">September 2022</p>
   </div>
 </div>
