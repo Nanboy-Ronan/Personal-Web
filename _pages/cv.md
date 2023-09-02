@@ -15,20 +15,20 @@ Education
 
 Work experience
 ======
-* May - Aug 2023: Software Development Engineer
-* Amazon Web Services: Vancouver, Canada
+* **Software Development Engineer**: May - Aug 2023
+* **Amazon Web Services**: Vancouver, Canada
   * Developed the open-source license scanner for checking prohibited licenses in CI/CD code pipeline
   * Enabled automated attribution document generation process.
   * Received inclined for full-time position.
 
-* Jan - Aug 2022: Software Developer
-* Sierra Wireless: Vancouver, Canada
+* **Software Developer**: Jan - Aug 2022
+* **Sierra Wireless**: Vancouver, Canada
   * Developed automation test scripts in both web-end with Selenium and Cypress; and also the back-end for testing 5G router (MG90)s
   * Programmed in Socket and developed VPN and Firewall testing scripts for MG90.
-  * •	Set up and executed automation testbeds with Jenkins and VMware.
+  * Set up and executed automation testbeds with Jenkins and VMware.
 
-* Sep 2020 - Jul 2022: Teaching Assistant
-* Department of Computer Science at UBC: Vancouver, Canada
+* **Teaching Assistant**: Sep 2020 - Jul 2022
+* **Department of Computer Science at UBC**: Vancouver, Canada
   * Assisted PHYS 117 (Dynamics and Waves) for one term, CPSC 121 (Models of Computation) for two terms and CPSC 213 (Introduction to Computer Systems) for three terms.
   
 Skills
