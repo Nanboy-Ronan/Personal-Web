@@ -23,7 +23,7 @@ Work experience
 
 * **Software Developer**: Jan - Aug 2022 <br />
 **Sierra Wireless**: Vancouver, Canada
-  * Developed automation test scripts in both web-end with Selenium and Cypress; and also the back-end for testing 5G router (MG90)s
+  * Developed automation test scripts in both web-end with Selenium and Cypress; and also the back-end for testing 5G router (MG90).
   * Programmed in Socket and developed VPN and Firewall testing scripts for MG90.
   * Set up and executed automation testbeds with Jenkins and VMware.
 
