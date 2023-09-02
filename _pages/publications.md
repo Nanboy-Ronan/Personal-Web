@@ -44,7 +44,7 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 400px; height: auto; margin-right: 20px;">
+  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 400px; height: 300px; margin-right: 20px;">
   <div>
     <a className="publication-title" href="https://link.springer.com/chapter/10.1007/978-3-031-16980-9_15">Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis</a>
     <p className="publication-autors" style=""> Jin, R., & Li, X. </p>
@@ -54,7 +54,7 @@ author_profile: true
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 400px; height: auto; margin-right: 20px;">
+  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 400px; height: 300px; margin-right: 20px;">
   <div>
     <a className="publication-title" href="https://link.springer.com/chapter/10.1007/978-3-031-16980-9_15">Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis</a>
     <p className="publication-autors" style=""> Jin, R., & Li, X. </p>
