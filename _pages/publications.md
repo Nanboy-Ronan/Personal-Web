@@ -12,7 +12,7 @@ Welcome to my list of recent publications. Here, you can find a selection of my 
 ## Journal Articles
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 200px; height: auto; margin-right: 20px;">
+  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 400px; height: auto; margin-right: 20px;">
   <div>
     <h3>Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis</h3>
     <p> Jin, R., & Li, X. </p>
