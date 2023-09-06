@@ -17,7 +17,7 @@ Work experience
 ======
 * **Software Development Engineer**: May - Aug 2023 <br />
 **Amazon Web Services**: Vancouver, Canada
-  * Developed the open-source license scanner for checking prohibited licenses in CI/CD code pipeline
+  * Developed the open-source license scanner for checking prohibited licenses in CI/CD code pipeline.
   * Enabled automated attribution document generation process.
   * Received inclined for full-time position.
 
