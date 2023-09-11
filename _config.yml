@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nanboy-Ronan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nanboy-Ronan"
 description              : &description "personal description"
