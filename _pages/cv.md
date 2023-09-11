@@ -15,6 +15,10 @@ Education
 
 Work experience
 ======
+* **Research Assistant**: Dec 2021 - Present <br />
+**UBC**: Vancouver, Canada
+  * Worked on multiple project in fields of Machine Learning Research Data Preprocessing.
+
 * **Software Development Engineer**: May - Aug 2023 <br />
 **Amazon Web Services**: Vancouver, Canada
   * Developed the open-source license scanner for checking prohibited licenses in CI/CD code pipeline.
@@ -28,9 +32,11 @@ Work experience
   * Set up and executed automation testbeds with Jenkins and VMware.
 
 * **Teaching Assistant**: Sep 2020 - Jul 2022 <br />
-**Department of Computer Science at UBC**: Vancouver, Canada
+<!-- **Department of Computer Science at UBC**: Vancouver, Canada -->
+**UBC**: Vancouver, Canada
   * Assisted PHYS 117 (Dynamics and Waves) for one term, CPSC 121 (Models of Computation) for two terms and CPSC 213 (Introduction to Computer Systems) for three terms.
-  
+
+
 Skills
 ======
 * Deep Learning
