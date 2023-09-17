@@ -17,7 +17,7 @@ Work experience
 ======
 * **Research Assistant**: Dec 2021 - Present <br />
 **UBC**: Vancouver, Canada
-  * Worked on multiple project in fields of Machine Learning Research Data Preprocessing.
+  * Worked on multiple projects in fields of Machine Learning Research and Data Preprocessing.
 
 * **Software Development Engineer**: May - Aug 2023 <br />
 **Amazon Web Services**: Vancouver, Canada
