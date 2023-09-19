@@ -16,8 +16,8 @@ Education
 Work experience
 ======
 * **Research Assistant**: Dec 2021 - Present <br />
-**UBC**: Vancouver, Canada
-  * Worked on multiple projects in fields of Machine Learning Research and Data Preprocessing.
+**University of British Columbia**: Vancouver, Canada
+  * Worked on multiple projects in fields of Machine Learning Research and Data Pre-processing.
 
 * **Software Development Engineer**: May - Aug 2023 <br />
 **Amazon Web Services**: Vancouver, Canada
@@ -33,7 +33,7 @@ Work experience
 
 * **Teaching Assistant**: Sep 2020 - Jul 2022 <br />
 <!-- **Department of Computer Science at UBC**: Vancouver, Canada -->
-**UBC**: Vancouver, Canada
+**University of British Columbia**: Vancouver, Canada
   * Assisted PHYS 117 (Dynamics and Waves) for one term, CPSC 121 (Models of Computation) for two terms and CPSC 213 (Introduction to Computer Systems) for three terms.
 
 
