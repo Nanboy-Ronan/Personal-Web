@@ -37,7 +37,7 @@ Work experience
   * Assisted PHYS 117 (Dynamics and Waves) for one term, CPSC 121 (Models of Computation) for two terms and CPSC 213 (Introduction to Computer Systems) for three terms.
 
 
-Skills
+<!-- Skills
 ======
 * Deep Learning
 * Data Science
@@ -51,7 +51,7 @@ Skills
 * Cloud Storage Services
   * Google Big Query
   * Oracle SQL
-  * Enterprise Data Warehouse
+  * Enterprise Data Warehouse -->
 
 <!-- Publications
 ======
