@@ -28,7 +28,7 @@ publication-journal {
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/Personal-Web/assets/images/MIA_2022.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
-    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2210.10886">Backdoor Attack and Defense in Federated Generative Adversarial Network-based Medical Image Synthesis<br /></a>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://www.sciencedirect.com/science/article/pii/S1361841523002256">Backdoor Attack and Defense in Federated Generative Adversarial Network-based Medical Image Synthesis<br /></a>
     <publication-autors> Jin, R., & Li, X. <br /></publication-autors>
     <publication-journal>Medical Image Analysis (2023)</publication-journal>
   </div>
