@@ -22,7 +22,7 @@ Hello, I'm Ruinan Jin. Currently, I am pursuing a B.S. (Hon.) in Computer Scienc
 
 * Vision-Text Multimodal
   * Various vision-text models including *CLIP, MedCLIP, ViLT*.
-  * Machine Learning Security and privacy on Multimodals.
+  * Machine learning security and privacy on Multimodals.
 
 * Machine Learning Privacy and Security
   * Different attacking algorithms, including *membership inference attacks, backdoor attacks (patch and Fourier-based)* and the state-of-the-art defense strategies for them.
