@@ -26,6 +26,15 @@ publication-journal {
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/Personal-Web/assets/images/SaTML_2024.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+  <div>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2401.01911">Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP<br /></a>
+    <publication-autors> Jin, R., Huang, CY., You, C., & Li, X. <br /></publication-autors>
+    <publication-journal>To appear at  IEEE Conference on Secure and Trustworthy Machine Learning (2024)</publication-journal>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/Personal-Web/assets/images/MIA_2022.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://www.sciencedirect.com/science/article/pii/S1361841523002256">Backdoor Attack and Defense in Federated Generative Adversarial Network-based Medical Image Synthesis<br /></a>
