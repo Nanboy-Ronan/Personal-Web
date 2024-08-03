@@ -48,7 +48,7 @@ publication-journal {
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2306.02216">Forgettable Federated Linear Learning with Certified Data Removal<br /></a>
     <publication-autors> Jin, R., Chen, M., Zhang, Q., & Li, X. <br /></publication-autors>
-    <publication-journal>Preprint under review (2023)</publication-journal>
+    <publication-journal>Preprint under review (2023) Initial work received best paper award at WWW FL@FM</publication-journal>
   </div>
 </div>
 
