@@ -30,7 +30,7 @@ publication-journal {
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2401.01911">Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP<br /></a>
     <publication-autors> Jin, R., Huang, CY., You, C., & Li, X. <br /></publication-autors>
-    <publication-journal>To appear at  IEEE Conference on Secure and Trustworthy Machine Learning (2024)</publication-journal>
+    <publication-journal>IEEE Conference on Secure and Trustworthy Machine Learning (2024)</publication-journal>
   </div>
 </div>
 

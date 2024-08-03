@@ -12,9 +12,10 @@ Hello, I'm Ruinan Jin. Currently, I am pursuing a B.S. (Hon.) in Computer Scienc
 
 ## Research Interest
 * Federated Learning (FL)
-  * State-of-the-art FL algorithms under heterogenous data, including *FedAvg, FedProx, FedNova, Scaffold, ditto* in different customer settings.
+  * FL algorithms under heterogenous data.
   * Persornalized Federated Learning. 
   * Federated Generative Adversarial Networks.
+  * Federated Unlearning.
 
 * Data Distillation and Generation
   * Various data distillation strategies under federated learning setting, including *gradient matching and distribution matching*.
@@ -29,3 +30,7 @@ Hello, I'm Ruinan Jin. Currently, I am pursuing a B.S. (Hon.) in Computer Scienc
   * Differential privacy, like *DP-SGD* algorithm under federated learning and data generation settings.
   * State-of-the-art machine unlearning algorithms. 
   * Different outlier detection algorithm for detecting malicious behavior, including *isolation forest, KNN, PCA and DBSCAN*.
+
+* Robustness in Optimization
+ * Fairness in medical image analysis
+ * Fairness embedding of Foundation Models.
