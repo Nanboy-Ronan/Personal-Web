@@ -35,7 +35,7 @@ publication-journal {
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/DNE.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+  <img src="/Personal-Web/assets/images/FairMedFM.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2403.06104">Debiased Noise Editing on Foundation Models for Fair Medical Image Classification<br /></a>
     <publication-autors> Jin, R., Deng, W., Chen, M., & Li, X. <br /></publication-autors>
