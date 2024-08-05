@@ -32,5 +32,5 @@ Hello, I'm Ruinan Jin, currently graduate student focus on medical and trustwort
   * Different outlier detection algorithm for detecting malicious behavior, including *isolation forest, KNN, PCA and DBSCAN*.
 
 * Robustness in Optimization
- * Fairness in medical image analysis
- * Fairness embedding of Foundation Models.
+  * Fairness in medical image analysis
+  * Fairness embedding of Foundation Models.
