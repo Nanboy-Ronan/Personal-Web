@@ -30,7 +30,7 @@ publication-journal {
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2407.00983">DFairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models<br /></a>
     <publication-autors> Jin, R., Xu, Z., Zhong, Y., Yao, Q., Dou, Q, Zou, K. & Li, X. <br /></publication-autors>
-    <publication-journal>Pre-print (2024)</publication-journal>
+    <publication-journal>Preprint under review (2024)</publication-journal>
   </div>
 </div>
 
@@ -40,6 +40,15 @@ publication-journal {
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2403.06104">Debiased Noise Editing on Foundation Models for Fair Medical Image Classification<br /></a>
     <publication-autors> Jin, R., Deng, W., Chen, M., & Li, X. <br /></publication-autors>
     <publication-journal>MICCAI (2024)</publication-journal>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/Personal-Web/assets/images/unlearning_2023.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+  <div>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2306.02216">Forgettable Federated Linear Learning with Certified Data Removal<br /></a>
+    <publication-autors> Jin, R., Chen, M., Zhang, Q., & Li, X. <br /></publication-autors>
+    <publication-journal>Preprint under review (2024) <a href="https://federated-learning.org/fl@fm-www-2024/BestPaper.jpg">Initial work received best paper award at WWW FL@FM</a></publication-journal>
   </div>
 </div>
 
@@ -58,15 +67,6 @@ publication-journal {
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://www.sciencedirect.com/science/article/pii/S1361841523002256">Backdoor Attack and Defense in Federated Generative Adversarial Network-based Medical Image Synthesis<br /></a>
     <publication-autors> Jin, R., & Li, X. <br /></publication-autors>
     <publication-journal>Medical Image Analysis (2023)</publication-journal>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/unlearning_2023.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
-  <div>
-    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2306.02216">Forgettable Federated Linear Learning with Certified Data Removal<br /></a>
-    <publication-autors> Jin, R., Chen, M., Zhang, Q., & Li, X. <br /></publication-autors>
-    <publication-journal>Preprint under review (2023) <a href="https://federated-learning.org/fl@fm-www-2024/BestPaper.jpg">Initial work received best paper award at WWW FL@FM</a></publication-journal>
   </div>
 </div>
 
