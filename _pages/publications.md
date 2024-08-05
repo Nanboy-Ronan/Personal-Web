@@ -26,6 +26,24 @@ publication-journal {
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/Personal-Web/assets/images/DNE.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+  <div>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2407.00983">DFairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models<br /></a>
+    <publication-autors> Jin, R., Xu, Z., Zhong, Y., Yao, Q., Dou, Q, Zou, K. & Li, X. <br /></publication-autors>
+    <publication-journal>Pre-print (2024)</publication-journal>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/Personal-Web/assets/images/DNE.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+  <div>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2403.06104">Debiased Noise Editing on Foundation Models for Fair Medical Image Classification<br /></a>
+    <publication-autors> Jin, R., Deng, W., Chen, M., & Li, X. <br /></publication-autors>
+    <publication-journal>MICCAI (2024)</publication-journal>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/Personal-Web/assets/images/SaTML_2024.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2401.01911">Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP<br /></a>
