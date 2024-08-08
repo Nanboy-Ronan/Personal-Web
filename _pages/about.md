@@ -18,19 +18,23 @@ Hello, I'm Ruinan Jin, currently graduate student focus on medical and trustwort
   * Federated Unlearning.
 
 * Data Distillation and Generation
-  * Various data distillation strategies under federated learning setting, including *gradient matching and distribution matching*.
-  * Various Generative Adversarial Networks, including *StyleGANs, DCGANs, WGAN and different conditional GANs*.
+  * Various data distillation strategies under federated learning setting.
+  * Various Generative Adversarial Networks.
 
-* Vision-Text Multimodal
-  * Various vision-text models including *CLIP, MedCLIP, ViLT*.
-  * Machine learning security and privacy on Multimodals.
+* Vision-Language Multimodal Foundation Model
+  * Various vision-language foundation modelsxw.
+  * Trustworthness of foundation models.
 
 * Machine Learning Privacy and Security
-  * Different attacking algorithms, including *membership inference attacks, backdoor attacks (patch and Fourier-based)* and the state-of-the-art defense strategies for them.
-  * Differential privacy, like *DP-SGD* algorithm under federated learning and data generation settings.
-  * State-of-the-art machine unlearning algorithms. 
-  * Different outlier detection algorithm for detecting malicious behavior, including *isolation forest, KNN, PCA and DBSCAN*.
+  * Membership inference attacks, backdoor attacks and defense strategies.
+  * Differential privacy.
+  * Machine unlearning. 
+  * Outlier detection.
 
 * Robustness in Optimization
+  * Spurious Correlation
   * Fairness in medical image analysis
-  * Fairness embedding of Foundation Models.
+  * Fairness of Foundation Models.
+
+## Software
+[FairMedFM](https://github.com/FairMedFM/FairMedFM): Collection of Foundation Models for medical image analysis and their fairness usages.
