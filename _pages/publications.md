@@ -29,7 +29,7 @@ publication-journal {
   <img src="/Personal-Web/assets/images/FairMedFM.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2407.00983">FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models<br /></a>
-    <publication-autors> Jin, R., Xu, Z., Zhong, Y., Yao, Q., Dou, Q, Zou, K. & Li, X. <br /></publication-autors>
+    <publication-autors> Jin, R.*, Xu, Z.*, Zhong, Y.*, Yao, Q., Dou, Q, Zou, K. & Li, X. <br /></publication-autors>
     <publication-journal>Preprint under review (2024)</publication-journal>
   </div>
 </div>
