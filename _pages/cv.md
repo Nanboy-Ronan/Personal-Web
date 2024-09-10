@@ -23,7 +23,7 @@ Work experience
 **Amazon Web Services**: Vancouver, Canada
   * Developed the open-source license scanner for checking prohibited licenses in CI/CD code pipeline.
   * Enabled automated attribution document generation process.
-  * Received inclined for full-time position.
+  * Received return offer for full-time position.
 
 * **Software Developer**: Jan - Aug 2022 <br />
 **Sierra Wireless**: Vancouver, Canada
