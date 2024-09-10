@@ -86,7 +86,7 @@ author:
   location         : # "Location"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?user=WVDEcqIAAAAJ&hl=zh-CN
   email            : ruinanjin@alumni.ubc.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
