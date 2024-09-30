@@ -30,7 +30,7 @@ publication-journal {
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2407.00983">FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models<br /></a>
     <publication-autors> Jin, R.*, Xu, Z.*, Zhong, Y.*, Yao, Q., Dou, Q., Zou, K. & Li, X. <br /></publication-autors>
-    <publication-journal>Preprint under review (2024)</publication-journal>
+    <publication-journal>Accepted by NeurIPS (2024)</publication-journal>
   </div>
 </div>
 
