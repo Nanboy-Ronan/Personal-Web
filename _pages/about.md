@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Ruinan Jin, currently graduate student focus on medical and trustworthy machine learning. Previously, I gained a B.S. (Hon.) in Computer Science at UBC. Below is a list of my research interests.
+Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and trustworthy machine learning. I hold a B.S. (Hon.) in Computer Science from the University of British Columbia (UBC). Below is a list of my research interests, and I am open to various forms of collaboration. If you share any of these interests, please feel free to reach out! Thank you :)
 
 ## Research Interest
 * Federated Learning (FL)
