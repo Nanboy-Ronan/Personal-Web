@@ -24,13 +24,21 @@ publication-journal {
 </style>
 
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/Personal-Web/assets/images/fvl_2023.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+  <div>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2303.02278">Federated Virtual Learning on Heterogeneous Data with Local-global Distillation<br /></a>
+    <publication-autors> Huang, CY., Jin, R., Zhao, C., Xu, D. & Li, X. <br /></publication-autors>
+    <publication-journal>Transactions on Machine Learning Research (2025)</publication-journal>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/Personal-Web/assets/images/FairMedFM.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2407.00983">FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models<br /></a>
     <publication-autors> Jin, R.*, Xu, Z.*, Zhong, Y.*, Yao, Q., Dou, Q., Zou, K. & Li, X. <br /></publication-autors>
-    <publication-journal>Accepted by NeurIPS (2024)</publication-journal>
+    <publication-journal>NeurIPS (2024)</publication-journal>
   </div>
 </div>
 
@@ -69,17 +77,6 @@ publication-journal {
     <publication-journal>Medical Image Analysis (2023)</publication-journal>
   </div>
 </div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/fvl_2023.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
-  <div>
-    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2303.02278">Federated Virtual Learning on Heterogeneous Data with Local-global Distillation<br /></a>
-    <publication-autors> Huang, CY., Jin, R., Zhao, C., Xu, D. & Li, X. <br /></publication-autors>
-    <publication-journal>Preprint under review (2023)</publication-journal>
-  </div>
-</div>
-
-
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
