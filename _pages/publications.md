@@ -23,11 +23,28 @@ publication-journal {
 }
 </style>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/Personal-Web/assets/images/medvlmref_2025.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+  <div>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2506.18140">See-in-Pairs: Reference Image-Guided Comparative Vision-Language Models for Medical Diagnosis<br /></a>
+    <publication-autors> Jin, R., Huang, G., Shen, X., Zhang, Q., Tang, YS & Li, X. <br /></publication-autors>
+    <publication-journal>Preprint under review (2025)</publication-journal>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/Personal-Web/assets/images/medvlmbench_2025.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+  <div>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2506.17337">Can Common VLMs Rival Medical VLMs? Evaluation and Strategic Insights<br /></a>
+    <publication-autors> Zhong, Y.*, Jin, R.*, Li, X. & Dou, Q. <br /></publication-autors>
+    <publication-journal>Preprint under review (2025)</publication-journal>
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/Personal-Web/assets/images/fvl_2023.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
-    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2303.02278">Federated Virtual Learning on Heterogeneous Data with Local-global Distillation<br /></a>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://openreview.net/forum?id=QplBL2pV4Z">Federated Virtual Learning on Heterogeneous Data with Local-global Distillation<br /></a>
     <publication-autors> Huang, CY., Jin, R., Zhao, C., Xu, D. & Li, X. <br /></publication-autors>
     <publication-journal>Transactions on Machine Learning Research (2025)</publication-journal>
   </div>
