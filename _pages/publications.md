@@ -23,6 +23,10 @@ publication-journal {
 }
 </style>
 
+<div style="margin-top: 30px; font-family: Poppins Regular; font-size: 14px; font-style: italic; color: #555;">
+  * Denotes equal author contribution
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/Personal-Web/assets/images/medvlmref_2025.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
