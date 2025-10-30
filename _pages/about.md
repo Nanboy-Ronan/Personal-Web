@@ -38,21 +38,17 @@ Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and t
 
 ## Community Service
 
-<p class="mb-2">
-  <a class="badge badge--award" href="https://neurips.cc/Conferences/2025/ProgramCommittee" target="_blank" rel="noopener">
-    <i class="fa fa-award" aria-hidden="true"></i>
-    NeurIPS 2025 — Top Reviewer
-  </a>
-  
-</p>
-
 ### Conferences
 <ul class="list--grid">
-  <li>NeurIPS (2025) — Top Reviewer</li>
+  <li>
+    NeurIPS (2025)
+    <a class="badge badge--award" href="https://neurips.cc/Conferences/2025/ProgramCommittee" target="_blank" rel="noopener">
+      <i class="fa fa-award" aria-hidden="true"></i>
+      Top Reviewer
+    </a>
+  </li>
   <li>MICCAI (2025)</li>
-  <li>Conference 1</li>
-  <li>Conference 2</li>
-  <li>Conference 3</li>
+  
   
 </ul>
 
