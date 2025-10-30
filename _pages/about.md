@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and trustworthy machine learning. I hold a B.S. (Hon.) in Computer Science from the University of British Columbia (UBC). Below is a list of my research interests, and I am open to various forms of collaboration. If you share any of these interests, please feel free to reach out! Thank you :)
+Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and trustworthy machine learning. I hold a B.S. (Hon.) in Computer Science from the University of British Columbia (UBC). Below is a list of my research interests, and I am open to various forms of collaboration. If you share any of these interests, please feel free to reach out!
 
 ## Research Directions and Past Experiences
 
@@ -35,3 +35,35 @@ Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and t
 
 ## Software
 [FairMedFM](https://github.com/FairMedFM/FairMedFM): Collection of Foundation Models for medical image analysis and their fairness usages.
+
+## Community Service
+
+<p class="mb-2">
+  <a class="badge badge--award" href="https://neurips.cc/Conferences/2025/ProgramCommittee" target="_blank" rel="noopener">
+    <i class="fa fa-award" aria-hidden="true"></i>
+    NeurIPS 2025 — Top Reviewer
+  </a>
+  
+</p>
+
+### Conferences
+<ul class="list--grid">
+  <li>NeurIPS (2025) — Top Reviewer</li>
+  <li>MICCAI (2025)</li>
+  <li>Conference 1</li>
+  <li>Conference 2</li>
+  <li>Conference 3</li>
+  
+</ul>
+
+### Journals
+<ul class="list--grid">
+  <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
+  <li>IEEE Transactions on Medical Imaging</li>
+  <li>IEEE Transactions on Neural Networks and Learning Systems</li>
+  <li>IEEE Journal of Biomedical and Health Informatics</li>
+  <li>Medical Image Analysis</li>
+  <li>Neural Networks</li>
+  <li>Pattern Recognition</li>
+  
+</ul>
