@@ -54,8 +54,14 @@ Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and t
 
 ### Journals
 <ul class="list--grid">
+<li>
+    IEEE Transactions on Medical Imaging
+    <a class="badge badge--award" href="" target="_blank" rel="noopener">
+      <i class="fa fa-award" aria-hidden="true"></i>
+      Distinguished Reviewer (Bronze)
+    </a>
+  </li>
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
-  <li>IEEE Transactions on Medical Imaging</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>IEEE Journal of Biomedical and Health Informatics</li>
   <li>Medical Image Analysis</li>
