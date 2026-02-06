@@ -30,7 +30,7 @@ publication-journal {
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="/Personal-Web/assets/images/rvcbench_2026.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
-    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/pdf/2602.00443">RVCBench: Benchmarking the Robustness of Voice <br /></a>
+    <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/pdf/2602.00443">RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models <br /></a>
     <publication-autors> Jin, R., Huang, G., Shen, X., Zhang, Q., Tang, YS & Li, X. <br /></publication-autors>
     <publication-journal>Preprint under review (2025)</publication-journal>
   </div>
@@ -95,7 +95,7 @@ publication-journal {
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2306.02216">Forgettable Federated Linear Learning with Certified Data Removal<br /></a>
     <publication-autors> Jin, R., Chen, M., Zhang, Q., & Li, X. <br /></publication-autors>
-    <publication-journal>Preprint under review (2024) <a href="https://federated-learning.org/fl@fm-www-2024/BestPaper.jpg"><i class="fa fa-trophy" aria-hidden="true" style="color: #d4a017; margin-right: 6px;"></i>Initial work received best paper award at WWW FL@FM</a></publication-journal>
+    <publication-journal>Minor revision under IEEE TNNLS (2026) <a href="https://federated-learning.org/fl@fm-www-2024/BestPaper.jpg"><i class="fa fa-trophy" aria-hidden="true" style="color: #d4a017; margin-right: 6px;"></i>Initial work received best paper award at WWW FL@FM</a></publication-journal>
   </div>
 </div>
 
