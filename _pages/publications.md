@@ -31,7 +31,7 @@ publication-journal {
   <img src="/Personal-Web/assets/images/rvcbench_2026.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/pdf/2602.00443">RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models <br /></a>
-    <publication-autors> Jin, R., Huang, G., Shen, X., Zhang, Q., Tang, YS & Li, X. <br /></publication-autors>
+    <publication-autors> Jin, R.*, Liao, X.*, Yu, H. & Li, X. <br /></publication-autors>
     <publication-journal>Preprint under review (2025)</publication-journal>
   </div>
 </div>
