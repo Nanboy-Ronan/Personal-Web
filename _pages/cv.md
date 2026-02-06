@@ -15,29 +15,27 @@ Education
 
 Work experience
 ======
-* **Student Reseacher**: 2026 - Present <br />
-**Google**: Remote, Canada
+* **Google** <br />
+**Student Reseacher**: 2026 - Present
   * Currently working on media authenticity verification through decomposing forensic analysis into camera-consistency and semantic-integrity.
 
-* **Software Development Engineer**: May - Aug 2023 <br />
-**Amazon Web Services**: Vancouver, Canada
+* **Amazon Web Services** <br />
+**Software Development Engineer**: May - Aug 2023
   * Developed the open-source license scanner for checking prohibited licenses in CI/CD code pipeline.
   * Enabled automated attribution document generation process.
   * Received return offer for full-time position.
 
-* **Software Developer**: Jan - Aug 2022 <br />
-**Sierra Wireless**: Vancouver, Canada
+* **Sierra Wireless** <br />
+**Software Developer**: Jan - Aug 2022
   * Developed automation test scripts in both web-end with Selenium and Cypress; and also the back-end for testing 5G router (MG90).
   * Programmed in Socket and developed VPN and Firewall testing scripts for MG90.
   * Set up and executed automation testbeds with Jenkins and VMware.
 
-* **Research Assistant**: Dec 2021 - Present <br />
-**University of British Columbia**: Vancouver, Canada
+* **University of British Columbia** <br />
+**Research Assistant**: Dec 2021 - Present
   * Worked on multiple projects in fields of Machine Learning and Data Pre-processing.
 
-* **Teaching Assistant**: Sep 2020 - Jul 2022 <br />
-<!-- **Department of Computer Science at UBC**: Vancouver, Canada -->
-**University of British Columbia**: Vancouver, Canada
+**Teaching Assistant**: Sep 2020 - Jul 2022 <br />
   * Assisted PHYS 117 (Dynamics and Waves) for one term, CPSC 121 (Models of Computation) for two terms and CPSC 213 (Introduction to Computer Systems) for three terms.
 
 

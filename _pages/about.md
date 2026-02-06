@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and trustworthy machine learning. I hold a B.S. (Hon.) in Computer Science from the University of British Columbia (UBC). I have also gained the rish industry experiences at Google, Amazon Web Services and Sierra Wireless, working on machine learning research and IoT solutions. Below is a list of my research interests, and I am open to various forms of collaboration. If you share any of these interests, please feel free to reach out!
+Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and trustworthy machine learning. I hold a B.S. (Hon.) in Computer Science from the University of British Columbia (UBC). I have also gained rish industry experiences at Google, Amazon Web Services and Sierra Wireless, working on machine learning research and IoT solutions. Below is a list of my research interests, and I am open to various forms of collaboration. If you share any of these interests, please feel free to reach out!
 
 ## Research Directions and Past Experiences
 
