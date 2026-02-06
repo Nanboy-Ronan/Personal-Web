@@ -8,33 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and trustworthy machine learning. I hold a B.S. (Hon.) in Computer Science from the University of British Columbia (UBC). Below is a list of my research interests, and I am open to various forms of collaboration. If you share any of these interests, please feel free to reach out!
+Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and trustworthy machine learning. I hold a B.S. (Hon.) in Computer Science from the University of British Columbia (UBC). I have also gained the rish industry experiences at Google, Amazon Web Services and Sierra Wireless, working on machine learning research and IoT solutions. Below is a list of my research interests, and I am open to various forms of collaboration. If you share any of these interests, please feel free to reach out!
 
 ## Research Directions and Past Experiences
 
-### Federated Learning
+<!-- ### Federated Learning
 - **Data Heterogeneity**: personalized and heterogeneous federated learning strategies.
 - **Distributed Generative Models**: integration of generative adversarial networks (e.g., StyleGAN2-ADA) into federated settings.
 - **Privacy**: differential privacy techniques under federated learning.
 - **Data Distillation**: data distillation approaches, such as gradient matching and distribution matching, under federated learning.
 - **Federated Recommendation System**: integrate deep learning recommendation model (DLRM) into heterogeneous federated learning for efficient communication.
-- **New Regime of Federated Learning**: incorporation of textural gradient features into federated optimization.
+- **New Regime of Federated Learning**: incorporation of textural gradient features into federated optimization. -->
 
 ### Trustworthy Machine Learning
-- **Security**: membership-inference attacks, patch / Fourier backdoor insertion, robust aggregation, and certified defense frameworks.
-- **Privacy**: central- and local-model differential privacy plus private synthetic-data generation for sensitive domains.
-- **Memorization and Unlearning**: memorization behavior of modern vision-language models and its broad implication in the trustworthy machine learning (e.g., backdoor attack, fairness, out-of-domain data and privacy), along with the development and application of machine unlearning algorithms.
-- **Fairness**: bias quantification and group-fairness constraints in medical foundation models and vision-language regimes.
+My research aims to make modern machine learning systems—especially **foundation and vision-language models (VLMs)** and **federated learning**—more **secure, private, robust, and fair**. I develop both **attacks to diagnose failure modes** and **defenses with measurable guarantees**, with an emphasis on sensitive, real-world domains (e.g., healthcare).
 
-### Vision-Language Multimodal Models
+- **Security (Adversaries & Defenses)**: Backdoor attacks and proactive defenses (e.g., adversarial noise); patch-/Fourier-based backdoor insertion and robust aggregation in distributed settings.
+- **Privacy (Data Exposure & Unlearning)**: Memorization behavior in modern VLMs and its implications for trust issues (privacy leakage, backdoors, fairness, and out-of-domain data); machine unlearning algorithms; central- and local-model differential privacy; and private synthetic-data generation for sensitive domains.
+- **Generalization & Robustness (Deployment Reality)**: Generalization behavior of VLMs and federated learning under distribution shift and heterogeneous clients; robustness-oriented training and evaluation under realistic deployment conditions.
+- **Fairness (Measurement & Constraints)**: Bias quantification and group-fairness constraints in medical foundation models and in vision-language settings; evaluation protocols that connect fairness objectives to deployment risk.
+
+<!-- ### Vision-Language Multimodal Models
 - **Contrastive Pre-training**: CLIP-family for image-text representation alignment.
 - **Generative VL Models**: LLaVA-family for visual question answering, captioning, and multimodal reasoning.
 - **Generalization**: in domain and out-of-domain performance benchmark in medical vision-language models.
-- **Compositional Learning**: usage of the textual concepts (e.g., concept bottleneck model) to predict intermediate human-interpretable attributes before final decisions.
+- **Compositional Learning**: usage of the textual concepts (e.g., concept bottleneck model) to predict intermediate human-interpretable attributes before final decisions. -->
 
 
-## Software
-[FairMedFM](https://github.com/FairMedFM/FairMedFM): Collection of Foundation Models for medical image analysis and their fairness usages.
+## Open-source Projects
+[FairMedFM](https://github.com/FairMedFM/FairMedFM): Collection of fairness evaluation on Foundation Models for medical image analysis.
+
+[MedVLMBench](https://github.com/ubc-tea/MedVLMBench): Collection of medical vision-language models for medical image analysis.
+
+[RVCBench](https://github.com/Nanboy-Ronan/RVCBench): Collection of robustness evaluation on modern TTS and voice clone models.
 
 ## Community Service
 

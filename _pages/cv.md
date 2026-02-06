@@ -15,9 +15,9 @@ Education
 
 Work experience
 ======
-* **Research Assistant**: Dec 2021 - Present <br />
-**University of British Columbia**: Vancouver, Canada
-  * Worked on multiple projects in fields of Machine Learning and Data Pre-processing.
+* **Student Reseacher**: 2026 - Present <br />
+**Google**: Remote, Canada
+  * Currently working on media authenticity verification through decomposing forensic analysisinto camera-consistency and semantic-integrity.
 
 * **Software Development Engineer**: May - Aug 2023 <br />
 **Amazon Web Services**: Vancouver, Canada
@@ -30,6 +30,10 @@ Work experience
   * Developed automation test scripts in both web-end with Selenium and Cypress; and also the back-end for testing 5G router (MG90).
   * Programmed in Socket and developed VPN and Firewall testing scripts for MG90.
   * Set up and executed automation testbeds with Jenkins and VMware.
+
+* **Research Assistant**: Dec 2021 - Present <br />
+**University of British Columbia**: Vancouver, Canada
+  * Worked on multiple projects in fields of Machine Learning and Data Pre-processing.
 
 * **Teaching Assistant**: Sep 2020 - Jul 2022 <br />
 <!-- **Department of Computer Science at UBC**: Vancouver, Canada -->
