@@ -17,7 +17,7 @@ Work experience
 ======
 * **Student Reseacher**: 2026 - Present <br />
 **Google**: Remote, Canada
-  * Currently working on media authenticity verification through decomposing forensic analysisinto camera-consistency and semantic-integrity.
+  * Currently working on media authenticity verification through decomposing forensic analysis into camera-consistency and semantic-integrity.
 
 * **Software Development Engineer**: May - Aug 2023 <br />
 **Amazon Web Services**: Vancouver, Canada
