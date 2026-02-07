@@ -70,6 +70,7 @@ My research aims to make modern machine learning systems—especially **foundati
   <li>IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>IEEE Journal of Biomedical and Health Informatics</li>
+  <li>IEEE Transactions on Artificial Intelligence</li>
   <li>Medical Image Analysis</li>
   <li>Neural Networks</li>
   <li>Pattern Recognition</li>
