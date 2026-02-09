@@ -20,13 +20,24 @@ Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and t
 - **Federated Recommendation System**: integrate deep learning recommendation model (DLRM) into heterogeneous federated learning for efficient communication.
 - **New Regime of Federated Learning**: incorporation of textural gradient features into federated optimization. -->
 
-### Trustworthy Machine Learning
-My research aims to make modern machine learning systems—especially **foundation and vision-language models (VLMs)** and **federated learning**—more **secure, private, robust, and fair**. I develop both **attacks to diagnose failure modes** and **defenses with measurable guarantees**, with an emphasis on sensitive, real-world domains (e.g., healthcare).
+## Trustworthy Medical AI in Real-World Clinical Settings
 
-- **Security (Adversaries & Defenses)**: Backdoor attacks and proactive defenses (e.g., adversarial noise); patch-/Fourier-based backdoor insertion and robust aggregation in distributed settings.
-- **Privacy (Data Exposure & Unlearning)**: Memorization behavior in modern VLMs and its implications for trust issues (privacy leakage, backdoors, fairness, and out-of-domain data); machine unlearning algorithms; central- and local-model differential privacy; and private synthetic-data generation for sensitive domains.
-- **Generalization & Robustness (Deployment Reality)**: Generalization behavior of VLMs and federated learning under distribution shift and heterogeneous clients; robustness-oriented training and evaluation under realistic deployment conditions.
-- **Fairness (Measurement & Constraints)**: Bias quantification and group-fairness constraints in medical foundation models and in vision-language settings; evaluation protocols that connect fairness objectives to deployment risk.
+My research focuses on building **trustworthy machine learning systems for medicine**, with an emphasis on **foundation and vision-language models (VLMs)**, **medical AI agents**, and **clinical reasoning and dialogue systems** deployed in real-world healthcare settings. I am particularly interested in understanding and improving how medical AI systems behave **beyond simulation**, including their **reliability, safety, fairness, and robustness under real-world clinical use** (e.g., longitudinal decision-making, distribution shift, and heterogeneous patient populations).
+
+A central theme of my work is to **diagnose failure modes in medical AI systems**—such as spurious reasoning, memorization, privacy leakage, bias, and vulnerability to adversarial or distributional perturbations—and to develop **defenses and evaluation methodologies with measurable guarantees**. My research spans both **model development and rigorous evaluation**, with a strong focus on high-impact, sensitive domains such as healthcare.
+
+- **Security & Safety (Failure Modes and Defenses)**  
+  Backdoor attacks and defenses in medical and multimodal models; robustness of foundation models and medical AI agents to spurious correlations, adversarial perturbations, and deployment-time shifts; safety-oriented evaluation for clinical reasoning and dialogue systems.
+
+- **Privacy & Data Governance (Trust and Unlearning)**  
+  Memorization and data exposure in modern medical VLMs and agents; implications for privacy leakage, fairness, and backdoors; machine unlearning; differential privacy in centralized and federated settings; and privacy-preserving synthetic data generation for sensitive medical domains.
+
+- **Reliability & Generalization (From Simulation to Real World)**  
+  Generalization behavior of medical foundation models, VLMs, and federated learning systems under distribution shift, heterogeneous clients, and longitudinal use; robustness-oriented training and evaluation protocols designed to reflect real-world clinical deployment.
+
+- **Fairness & Responsible Evaluation (Clinical Risk Awareness)**  
+  Bias measurement and group-fairness constraints in medical foundation models and vision-language systems; fairness-aware benchmarks and evaluation frameworks that connect algorithmic behavior to downstream clinical risk and real-world impact.
+
 
 <!-- ### Vision-Language Multimodal Models
 - **Contrastive Pre-training**: CLIP-family for image-text representation alignment.
