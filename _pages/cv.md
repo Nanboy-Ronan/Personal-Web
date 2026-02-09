@@ -17,7 +17,7 @@ Work experience
 ======
 * **Google** <br />
 **Student Reseacher**: 2026 - Present
-  * Currently working on media authenticity verification through decomposing forensic analysis into camera-consistency and semantic-integrity.
+  * Conducting research on synthetic media authenticity verification.
 
 * **Amazon Web Services** <br />
 **Software Development Engineer**: May - Aug 2023
