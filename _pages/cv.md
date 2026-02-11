@@ -34,6 +34,7 @@ Work experience
 * **University of British Columbia** <br />
   **Research Assistant**: Dec 2021 - Present
     * Worked on multiple projects in fields of Machine Learning and Data Pre-processing.
+    
   **Teaching Assistant**: Sep 2020 - Jul 2022 <br />
     * Assisted PHYS 117 (Dynamics and Waves) for one term, CPSC 121 (Models of Computation) for two terms and CPSC 213 (Introduction to Computer Systems) for three terms.
 
