@@ -20,7 +20,7 @@ Hello, I'm Ruinan Jin, and I am currently the PhD student focus on medical and t
 - **Federated Recommendation System**: integrate deep learning recommendation model (DLRM) into heterogeneous federated learning for efficient communication.
 - **New Regime of Federated Learning**: incorporation of textural gradient features into federated optimization. -->
 
-## Trustworthy Medical AI in Real-World Clinical Settings
+<!-- ## Trustworthy Medical AI in Real-World Clinical Settings -->
 
 My research focuses on building **trustworthy machine learning systems for medicine**, with an emphasis on **foundation and vision-language models (VLMs)**, **medical AI agents**, and **clinical reasoning and dialogue systems** deployed in real-world healthcare settings. I am particularly interested in understanding and improving how medical AI systems behave **beyond simulation**, including their **reliability, safety, fairness, and robustness under real-world clinical use** (e.g., longitudinal decision-making, distribution shift, and heterogeneous patient populations).
 
