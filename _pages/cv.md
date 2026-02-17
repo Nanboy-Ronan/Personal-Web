@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. (Hon.) in Computer Science, University of British Columbia, 2024
+* B.S. (Hon. w/ Distinction) in Computer Science, University of British Columbia, 2024
 
 Work experience
 ======
