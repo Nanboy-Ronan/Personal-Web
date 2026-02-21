@@ -15,9 +15,9 @@ Education
 
 Work experience
 ======
-* **Google** <br />
+<!-- * **Google** <br />
 **Student Reseacher**: 2026 - Present
-  * Conducting research on synthetic media authenticity verification.
+  * Conducting research on synthetic media authenticity verification. -->
 
 * **Amazon Web Services** <br />
 **Software Development Engineer**: May - Aug 2023
