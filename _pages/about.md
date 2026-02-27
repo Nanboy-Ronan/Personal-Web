@@ -80,6 +80,7 @@ A central theme of my work is to **diagnose failure modes in medical AI systems*
   <li>IEEE Transactions on Neural Networks and Learning Systems</li>
   <li>IEEE Journal of Biomedical and Health Informatics</li>
   <li>IEEE Transactions on Artificial Intelligence</li>
+  <li>ACM Computing Surveys</li>
   <li>Medical Image Analysis</li>
   <li>Neural Networks</li>
   <li>Pattern Recognition</li>
