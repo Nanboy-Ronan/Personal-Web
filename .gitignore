@@ -1,2 +1,16 @@
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
 
+# Ruby
+.ruby-version
+Gemfile.lock
+
+# Claude Code
+.claude/
+
+# macOS
+.DS_Store
