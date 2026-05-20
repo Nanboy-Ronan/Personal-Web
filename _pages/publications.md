@@ -11,12 +11,12 @@ author_profile: true
   font-size: 18px;
 }
 
-publication-autors {
+.publication-authors {
   font-family: Poppins Regular;
   font-size: 16px;
 }
 
-publication-journal {
+.publication-journal {
   font-family: Poppins Regular;
   font-size: 16px;
   font-style: italic;
@@ -27,102 +27,102 @@ publication-journal {
   * Denotes equal author contribution
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/unlearning_2023.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/unlearning_2023.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2306.02216">Forgettable Federated Linear Learning with Certified Data Removal<br /></a>
-    <publication-autors> Jin, R., Chen, M., Zhang, Q., & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--review">Under Review</span> Minor revision, IEEE TNNLS (2026) &nbsp;<a href="https://federated-learning.org/fl@fm-www-2024/BestPaper.jpg"><i class="fa fa-trophy" aria-hidden="true" style="color: #d4a017; margin-right: 6px;"></i>Best Paper @ WWW FL@FM</a></publication-journal>
+    <span class="publication-authors"> Jin, R., Chen, M., Zhang, Q., & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--review">Under Review</span> Minor revision, IEEE TNNLS (2026) &nbsp;<a href="https://federated-learning.org/fl@fm-www-2024/BestPaper.jpg"><i class="fa fa-trophy" aria-hidden="true" style="color: #d4a017; margin-right: 6px;"></i>Best Paper @ WWW FL@FM</a></span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/rvcbench_2026.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/rvcbench_2026.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/pdf/2602.00443">RVCBench: Benchmarking the Robustness of Voice Cloning Across Modern Audio Generation Models <br /></a>
-    <publication-autors> Liao, X.*, Jin, R.*, Yu, H. & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--preprint">Preprint</span> Under Review (2025)</publication-journal>
+    <span class="publication-authors"> Liao, X.*, Jin, R.*, Yu, H. & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--preprint">Preprint</span> Under Review (2025)</span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/medvlmref_2025.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/medvlmref_2025.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2506.18140">See-in-Pairs: Reference Image-Guided Comparative Vision-Language Models for Medical Diagnosis<br /></a>
-    <publication-autors> Jin, R., Huang, G., Shen, X., Zhang, Q., Tang, YS & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--preprint">Preprint</span> Under Review (2025)</publication-journal>
+    <span class="publication-authors"> Jin, R., Huang, G., Shen, X., Zhang, Q., Tang, YS & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--preprint">Preprint</span> Under Review (2025)</span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/medvlmbench_2025.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/medvlmbench_2025.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2506.17337">Can Common VLMs Rival Medical VLMs? Evaluation and Strategic Insights<br /></a>
-    <publication-autors> Zhong, Y.*, Jin, R.*, Li, X. & Dou, Q. <br /></publication-autors>
-    <publication-journal><span class="badge badge--preprint">Preprint</span> Under Review (2025)</publication-journal>
+    <span class="publication-authors"> Zhong, Y.*, Jin, R.*, Li, X. & Dou, Q. <br /></span>
+    <span class="publication-journal"><span class="badge badge--preprint">Preprint</span> Under Review (2025)</span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/lpft_2025.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/lpft_2025.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/pdf/2511.12695">A Closer Look at Personalized Fine-Tuning in Heterogeneous Federated Learning<br /></a>
-    <publication-autors> Chen, M.*, Ghoukasian, H.*, Jin, R.*, Wang, Z., Karimireddy, SP., & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--preprint">Preprint</span> Under Review (2025)</publication-journal>
+    <span class="publication-authors"> Chen, M.*, Ghoukasian, H.*, Jin, R.*, Wang, Z., Karimireddy, SP., & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--preprint">Preprint</span> Under Review (2025)</span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/fvl_2023.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/fvl_2023.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://openreview.net/forum?id=QplBL2pV4Z">Federated Virtual Learning on Heterogeneous Data with Local-global Distillation<br /></a>
-    <publication-autors> Huang, CY., Jin, R., Zhao, C., Xu, D. & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--published">TMLR 2025</span> Transactions on Machine Learning Research</publication-journal>
+    <span class="publication-authors"> Huang, CY., Jin, R., Zhao, C., Xu, D. & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--published">TMLR 2025</span> Transactions on Machine Learning Research</span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/FairMedFM.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/FairMedFM.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2407.00983">FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models<br /></a>
-    <publication-autors> Jin, R.*, Xu, Z.*, Zhong, Y.*, Yao, Q., Dou, Q., Zou, K. & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--published">NeurIPS 2024</span></publication-journal>
+    <span class="publication-authors"> Jin, R.*, Xu, Z.*, Zhong, Y.*, Yao, Q., Dou, Q., Zou, K. & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--published">NeurIPS 2024</span></span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/DNE.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/DNE.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2403.06104">Debiased Noise Editing on Foundation Models for Fair Medical Image Classification<br /></a>
-    <publication-autors> Jin, R., Deng, W., Chen, M., & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--published">MICCAI 2024</span></publication-journal>
+    <span class="publication-authors"> Jin, R., Deng, W., Chen, M., & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--published">MICCAI 2024</span></span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/SaTML_2024.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/SaTML_2024.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://arxiv.org/abs/2401.01911">Backdoor Attack on Unpaired Medical Image-Text Foundation Models: A Pilot Study on MedCLIP<br /></a>
-    <publication-autors> Jin, R., Huang, CY., You, C., & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--published">SaTML 2024</span> IEEE Conf. on Secure and Trustworthy Machine Learning</publication-journal>
+    <span class="publication-authors"> Jin, R., Huang, CY., You, C., & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--published">SaTML 2024</span> IEEE Conf. on Secure and Trustworthy Machine Learning</span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/MIA_2022.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/MIA_2022.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://www.sciencedirect.com/science/article/pii/S1361841523002256">Backdoor Attack and Defense in Federated Generative Adversarial Network-based Medical Image Synthesis<br /></a>
-    <publication-autors> Jin, R., & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--published">MIA 2023</span> Medical Image Analysis</publication-journal>
+    <span class="publication-authors"> Jin, R., & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--published">MIA 2023</span> Medical Image Analysis</span>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" style="max-width: 30%; height: auto; margin-right: 20px;">
+<div class="pub-entry">
+  <img src="/Personal-Web/assets/images/SASHIMI_2022.png" alt="Figure 1" class="pub-thumb">
   <div>
     <a style="font-family: Poppins SemiBold; font-size: 18px;" href="https://link.springer.com/chapter/10.1007/978-3-031-16980-9_15">Backdoor Attack is a Devil in Federated GAN-based Medical Image Synthesis<br /></a>
-    <publication-autors> Jin, R., & Li, X. <br /></publication-autors>
-    <publication-journal><span class="badge badge--published">SASHIMI 2022</span> Workshop on Simulation and Synthesis in Medical Imaging @ MICCAI</publication-journal>
+    <span class="publication-authors"> Jin, R., & Li, X. <br /></span>
+    <span class="publication-journal"><span class="badge badge--published">SASHIMI 2022</span> Workshop on Simulation and Synthesis in Medical Imaging @ MICCAI</span>
   </div>
 </div>
 <!-- {% if author.googlescholar %}

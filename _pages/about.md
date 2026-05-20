@@ -24,17 +24,28 @@ My research focuses on building **trustworthy machine learning systems for medic
 
 A central theme of my work is to **diagnose failure modes in medical AI systems**, such as spurious reasoning, memorization, privacy leakage, bias, and vulnerability to adversarial or distributional perturbations, and to develop **defenses and evaluation methodologies with measurable guarantees**. My research spans both **model development and rigorous evaluation**, with a strong focus on high-impact, sensitive domains such as healthcare.
 
-- **Security & Safety (Failure Modes and Defenses)**  
-  Backdoor attacks and defenses in medical and multimodal models; robustness of foundation models and medical AI agents to spurious correlations, adversarial perturbations, and deployment-time shifts; safety-oriented evaluation for clinical reasoning and dialogue systems.
-
-- **Privacy & Data Governance (Trust and Unlearning)**  
-  Memorization and data exposure in modern medical VLMs and agents; implications for privacy leakage, fairness, and backdoors; machine unlearning; differential privacy in centralized and federated settings; and privacy-preserving synthetic data generation for sensitive medical domains.
-
-- **Reliability & Generalization (From Simulation to Real World)**  
-  Generalization behavior of medical foundation models, VLMs, and federated learning systems under distribution shift, heterogeneous clients, and longitudinal use; robustness-oriented training and evaluation protocols designed to reflect real-world clinical deployment.
-
-- **Fairness & Responsible Evaluation (Clinical Risk Awareness)**  
-  Bias measurement and group-fairness constraints in medical foundation models and vision-language systems; fairness-aware benchmarks and evaluation frameworks that connect algorithmic behavior to downstream clinical risk and real-world impact.
+<div class="research-cards">
+  <div class="research-card">
+    <div class="research-card__icon"><i class="fas fa-shield-alt" aria-hidden="true"></i></div>
+    <div class="research-card__title">Security &amp; Safety</div>
+    <p class="research-card__body">Backdoor attacks and defenses in medical and multimodal models; robustness to adversarial perturbations and deployment-time shifts; safety-oriented evaluation for clinical AI systems.</p>
+  </div>
+  <div class="research-card">
+    <div class="research-card__icon"><i class="fas fa-user-shield" aria-hidden="true"></i></div>
+    <div class="research-card__title">Privacy &amp; Data Governance</div>
+    <p class="research-card__body">Memorization and data exposure in medical VLMs; machine unlearning; differential privacy; privacy-preserving synthetic data generation for sensitive medical domains.</p>
+  </div>
+  <div class="research-card">
+    <div class="research-card__icon"><i class="fas fa-chart-line" aria-hidden="true"></i></div>
+    <div class="research-card__title">Reliability &amp; Generalization</div>
+    <p class="research-card__body">Generalization of medical foundation models under distribution shift, heterogeneous clients, and longitudinal use; robustness-oriented evaluation for real-world clinical deployment.</p>
+  </div>
+  <div class="research-card">
+    <div class="research-card__icon"><i class="fas fa-balance-scale" aria-hidden="true"></i></div>
+    <div class="research-card__title">Fairness &amp; Responsible Evaluation</div>
+    <p class="research-card__body">Bias measurement and group-fairness in medical foundation models; fairness-aware benchmarks connecting algorithmic behavior to downstream clinical risk and real-world impact.</p>
+  </div>
+</div>
 
 
 <!-- ### Vision-Language Multimodal Models
@@ -45,11 +56,29 @@ A central theme of my work is to **diagnose failure modes in medical AI systems*
 
 
 ## Open-source Projects
-[FairMedFM](https://github.com/FairMedFM/FairMedFM): Collection of fairness evaluation on Foundation Models for medical image analysis.
-
-[MedVLMBench](https://github.com/ubc-tea/MedVLMBench): Collection of medical vision-language models for medical image analysis.
-
-[RVCBench](https://github.com/Nanboy-Ronan/RVCBench): Collection of robustness evaluation on modern TTS and voice clone models.
+<div class="project-cards">
+  <a class="project-card" href="https://github.com/FairMedFM/FairMedFM" target="_blank" rel="noopener">
+    <div class="project-card__icon"><i class="fab fa-github" aria-hidden="true"></i></div>
+    <div>
+      <div class="project-card__name">FairMedFM</div>
+      <div class="project-card__desc">Fairness benchmarking for medical imaging foundation models.</div>
+    </div>
+  </a>
+  <a class="project-card" href="https://github.com/ubc-tea/MedVLMBench" target="_blank" rel="noopener">
+    <div class="project-card__icon"><i class="fab fa-github" aria-hidden="true"></i></div>
+    <div>
+      <div class="project-card__name">MedVLMBench</div>
+      <div class="project-card__desc">Evaluation benchmark for medical vision-language models.</div>
+    </div>
+  </a>
+  <a class="project-card" href="https://github.com/Nanboy-Ronan/RVCBench" target="_blank" rel="noopener">
+    <div class="project-card__icon"><i class="fab fa-github" aria-hidden="true"></i></div>
+    <div>
+      <div class="project-card__name">RVCBench</div>
+      <div class="project-card__desc">Robustness evaluation for modern TTS and voice clone models.</div>
+    </div>
+  </a>
+</div>
 
 ## Community Service
 
